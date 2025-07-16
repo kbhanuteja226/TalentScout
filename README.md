@@ -59,7 +59,7 @@ TOGETHER_API_KEY=your_real_key_here
 To launch the chatbot locally:
 
 ```bash
-streamlit run app.py or python -m streamlit run app.py
+python -m streamlit run app.py
 ```
 
 Open your browser at: `http://localhost:8501`
