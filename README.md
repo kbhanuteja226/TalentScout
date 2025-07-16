@@ -158,3 +158,10 @@ Information collection is **not handled by LLM**, but by deterministic Python lo
 This project is for demonstration/educational use only.  
 Do not use in production without security, logging, and data privacy compliance.
 
+
+## 🌐 Live Demo (Deployed Versions)
+
+- 🔵 [Streamlit Cloud Deployment](https://talentscout-smartai.streamlit.app/)
+- 🟣 [Render Deployment](https://talentscoutai.onrender.com/)
+
+
