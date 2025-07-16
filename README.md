@@ -24,8 +24,8 @@ This chatbot simulates a **human-like technical screening conversation**, reduci
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/talentscout-ai-chatbot.git
-cd talentscout-ai-chatbot
+git clone https://github.com/kbhanuteja226/TalentScout.git
+cd TalentScout
 ```
 
 ### 2. (Optional) Create Virtual Environment
